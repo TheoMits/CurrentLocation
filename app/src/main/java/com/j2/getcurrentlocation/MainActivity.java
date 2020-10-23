@@ -17,7 +17,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements LocationListener {
     private LocationManager locationManager;
-    private LocationListener locationListener;
 
     TextView textView;
 
