@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     private LocationListener locationListener;
 
     TextView textView;
-    boolean e=false;
-
 
     @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
